@@ -1,0 +1,15 @@
+libkgc-mq-perl (0.2-1~8f86c47) jessie; urgency=medium
+
+  [ Joel DeJesus (Work Email) ]
+  * Updating for jessie
+
+  [ Joel DeJesus (Work Email) ]
+  * Cleaned up XS
+
+ -- Joel DeJesus (Work Email) <dejesus.joel@e-flamingo.jp>  Tue, 28 Jun 2016 20:00:01 +0900
+
+libkgc-mq-perl (0.1-1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Joel DeJesus (Work Email) <dejesus.joel@e-flamingo.jp>  Wed, 7 Jan 2015 18:51:38 +0900

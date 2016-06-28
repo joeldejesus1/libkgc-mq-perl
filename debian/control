@@ -1,0 +1,15 @@
+Source: libkgc-mq-perl
+Section: perl
+Priority: optional
+Maintainer: Joel DeJesus (Work Email) <dejesus.joel@e-flamingo.jp>
+Build-Depends: debhelper (>= 8),
+ perl,
+ perl-modules
+Standards-Version: 3.9.2
+Homepage: https://e-flamingo.net
+
+Package: libkgc-mq-perl
+Architecture: any
+Depends: ${misc:Depends}, ${perl:Depends}, ${shlibs:Depends}
+Description: Use of POSIX message queues in the KGC
+ This package utilizes mqueue.h in the -lrt (real time) library
