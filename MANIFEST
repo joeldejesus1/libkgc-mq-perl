@@ -1,0 +1,10 @@
+Changes
+Makefile.PL
+MANIFEST
+MQ.xs
+ppport.h
+README
+t/Kgc-MQ.t
+fallback/const-c.inc
+fallback/const-xs.inc
+lib/Kgc/MQ.pm
